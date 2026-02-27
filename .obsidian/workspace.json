@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/General Description.md",
+                "file": "md-docs/Business/General Description.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/Architecture.md",
+                "file": "md-docs/Technical/Architecture.md",
                 "mode": "source",
                 "source": false
               },
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical/Architecture.md",
+                "file": "md-docs/Technical/Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical/Architecture.md",
+                "file": "md-docs/Technical/Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/Architecture.md",
+                "file": "md-docs/Technical/Architecture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,15 +198,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce32c633f7caa8f6",
+  "active": "a5d1b011b64ddcfe",
   "lastOpenFiles": [
-    "Business/General Description.md",
-    "Technical/Architecture.md",
-    "Untitled",
+    "md-docs",
+    "md-docs/Business/General Description.md",
+    "md-docs/Technical/Architecture.md",
     "README.md",
-    "Business",
+    "md-docs/Business",
     "Second note.md",
     "Untitled/First Note.md",
-    "Technical"
+    "md-docs/Technical"
   ]
 }
