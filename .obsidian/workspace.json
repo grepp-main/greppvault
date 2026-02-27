@@ -184,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,11 +199,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5d1b011b64ddcfe",
+  "active": "ce32c633f7caa8f6",
   "lastOpenFiles": [
-    "md-docs",
     "md-docs/Business/General Description.md",
     "md-docs/Technical/Architecture.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "md-docs",
     "README.md",
     "md-docs/Business",
     "Second note.md",
